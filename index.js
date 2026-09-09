@@ -17,7 +17,7 @@ const ask = q => new Promise(r => {
 })
 
 const menu = () => console.log(`
-RynAm
+DybooAm
 [1] kirim magic link
 [2] verifikasi link + premium
 [3] premium dari sesi
