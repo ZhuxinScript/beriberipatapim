@@ -40,8 +40,8 @@ Sesi tersimpan di `sessions.json` (lokal, jangan dibagikan).
 
 ```bash
 pkg install nodejs -y
-git clone https://github.com/rynaqrtz/RynAm
-cd RynAm
+git clone https://github.com/ZhuxinScript/beriberipatapim
+cd beriberipatapim
 npm install
 node index.js
 ```
